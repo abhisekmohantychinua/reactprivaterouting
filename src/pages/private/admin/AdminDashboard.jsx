@@ -1,0 +1,10 @@
+/* eslint-disable no-unused-vars */
+import React from 'react';
+
+const AdminDashboard = () => {
+	return <>
+		<h1>This is Admin Dashboard</h1>
+	</>;
+};
+
+export default AdminDashboard;
